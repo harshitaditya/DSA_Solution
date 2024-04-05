@@ -1,3 +1,4 @@
+//using recursion
 class Solution {
     public String makeGood(String s) {
          for(int i=0;i<s.length()-1;i++){
