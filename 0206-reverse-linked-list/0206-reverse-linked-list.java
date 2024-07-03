@@ -2,38 +2,31 @@
  * Definition for singly-linked list.
  * public class ListNode {
  *     int val;
- *     ListNode next;
- *     ListNode() {}
- *     ListNode(int val) { this.val = val; }
- *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
+ *     ListListNode next;
+ *     ListListNode() {}
+ *     ListListNode(int val) { this.val = val; }
+ *     ListListNode(int val, ListListNode next) { this.val = val; this.next = next; }
  * }
  */
 class Solution {
     public ListNode reverseList(ListNode head) {
-    //     if(head==null){
-    //         return head;
-    //     }
-    //     if(head.next==null){
-    //         return head;
-    //     }
-    //   ListNode head1=reverseList(head.next);
-    //    head.next.next=head;
-    //    head.next=null;
-    //    return head1;
-    ////************************************************************////
-    //By Iterative Method//
-    
-        if(head==null || head.next==null){
+           if (head == null || head.next == null) {
             return head;
         }
-        ListNode prevNode=null;
-        ListNode currNode=head;
-        while(currNode != null){
-            ListNode temp=currNode.next;
-            currNode.next=prevNode;
-            prevNode=currNode;
-            currNode=temp;
+        ListNode prev = null;
+        ListNode curr = head;
+        ListNode next = null;
+        while (curr!= null ) {
+            next = curr.next;
+            curr.next = prev;
+            prev = curr;
+
+            curr = next;
+
         }
-        return prevNode;
+        head = prev;
+        return head;
+
+        
     }
 }
