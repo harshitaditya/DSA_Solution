@@ -6,6 +6,7 @@ DSA Solution
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/harshitaditya/DSA_Solution/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/harshitaditya/DSA_Solution/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/harshitaditya/DSA_Solution/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/harshitaditya/DSA_Solution/tree/master/0206-reverse-linked-list) |
@@ -26,6 +27,7 @@ DSA Solution
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/harshitaditya/DSA_Solution/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/harshitaditya/DSA_Solution/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/harshitaditya/DSA_Solution/tree/master/0142-linked-list-cycle-ii) |
 | [0234-palindrome-linked-list](https://github.com/harshitaditya/DSA_Solution/tree/master/0234-palindrome-linked-list) |
