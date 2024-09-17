@@ -40,8 +40,17 @@ DSA Solution
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/harshitaditya/DSA_Solution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0053-maximum-subarray](https://github.com/harshitaditya/DSA_Solution/tree/master/0053-maximum-subarray) |
 ## Binary Search
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/harshitaditya/DSA_Solution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/harshitaditya/DSA_Solution/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/harshitaditya/DSA_Solution/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
