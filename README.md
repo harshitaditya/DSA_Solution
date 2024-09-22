@@ -41,10 +41,12 @@ DSA Solution
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/harshitaditya/DSA_Solution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0053-maximum-subarray](https://github.com/harshitaditya/DSA_Solution/tree/master/0053-maximum-subarray) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/harshitaditya/DSA_Solution/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Binary Search
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/harshitaditya/DSA_Solution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/harshitaditya/DSA_Solution/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -53,4 +55,12 @@ DSA Solution
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/harshitaditya/DSA_Solution/tree/master/0053-maximum-subarray) |
+## Simulation
+|  |
+| ------- |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/harshitaditya/DSA_Solution/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+## Prefix Sum
+|  |
+| ------- |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/harshitaditya/DSA_Solution/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 <!---LeetCode Topics End-->
