@@ -10,10 +10,13 @@ class Solution {
             if(i==chalk.length-1){
                 i=0;
                 continue;
+               
+              
             }
-             i++;
-           
+            i++;
+            
         }
+
         return 0;
         
     }
