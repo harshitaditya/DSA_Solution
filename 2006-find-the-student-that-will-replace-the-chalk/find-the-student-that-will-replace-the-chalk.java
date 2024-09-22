@@ -6,13 +6,11 @@ class Solution {
                 return i;
             }
             k=k-chalk[i];
-            
             if(i==chalk.length-1){
                 i=0;
                 continue;
             }
-             i++;
-           
+            i++;
         }
         return 0;
         
