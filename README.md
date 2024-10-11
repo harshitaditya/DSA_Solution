@@ -35,6 +35,7 @@ DSA Solution
 ## Stack
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/harshitaditya/DSA_Solution/tree/master/0094-binary-tree-inorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/harshitaditya/DSA_Solution/tree/master/0234-palindrome-linked-list) |
 ## Array
 |  |
@@ -63,4 +64,16 @@ DSA Solution
 |  |
 | ------- |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/harshitaditya/DSA_Solution/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/harshitaditya/DSA_Solution/tree/master/0094-binary-tree-inorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/harshitaditya/DSA_Solution/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/harshitaditya/DSA_Solution/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
