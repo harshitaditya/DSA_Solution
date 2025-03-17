@@ -20,18 +20,28 @@ class Solution {
         //Better Approach
 
 
-        int n=nums.length;
-        HashMap<Integer,Integer> map=new HashMap<>();
-        for(int i:nums){
-            int value=map.getOrDefault(i,0);
-            map.put(i,value+1);
+        // int n=nums.length;
+        // HashMap<Integer,Integer> map=new HashMap<>();
+        // for(int i:nums){
+        //     int value=map.getOrDefault(i,0);
+        //     map.put(i,value+1);
+        // }
+        // for (Map.Entry<Integer, Integer> it : map.entrySet()) {
+        //     if (it.getValue() == 1) {
+        //         return it.getKey();
+        //     }
+        // }
+        // return -1;
+
+
+        // Optimal Solution
+        int xor=0;
+
+        for(int i=0;i<nums.length;i++){
+            xor=xor^nums[i];
+
         }
-        for (Map.Entry<Integer, Integer> it : map.entrySet()) {
-            if (it.getValue() == 1) {
-                return it.getKey();
-            }
-        }
-        return -1;
+        return xor;
 
         
     }
